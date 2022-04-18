@@ -1,0 +1,30 @@
+﻿#HyperLink1 {
+    width: 260px;
+    height: 100px;
+    text-decoration-line: none;
+    text-decoration-color: #051E82;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    font: bold;
+}
+#HyperLink2 {
+    width: 260px;
+    height: 100px;
+    text-decoration-line: none;
+    text-decoration-color: #051E82;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    font:bold;
+}
+#HyperLink4 {
+    width: 260px;
+    height: 100px;
+    text-decoration-line: none;
+    text-decoration-color: #051E82;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    font: bold;
+}
